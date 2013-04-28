@@ -1,0 +1,48 @@
+Changelog
+=========
+
+2013-03-07: Version 1.1
+-----------------------
+
+* Widening content area for single post displays to match header width
+	* $content_width changed to 660 pixels
+* The theme now uses its own gallery styles
+* 'Featured image in full posts' defaults to 'on'
+
+
+2013-03-04: Version 1.0.4
+-------------------------
+
+* Enqueueing webfonts the right way
+* Minor fixes
+* A note about custom header image sizes in the readme
+
+
+2013-02-27: Version 1.0.3
+-------------------------
+
+* Fix for footer text display in default setup.
+
+
+2013-02-26: Version 1.0.2
+-------------------------
+
+* Fix for the post format icons :before entry title
+* Making use of the core bundled script 'jquery-masonry'
+* Bringing back footer credit links to footer.php
+* Regenerated translation POT file
+
+
+2013-02-12: Version 1.0.1
+-------------------------
+
+* Fixed link color issues in customizer
+* Fix to handle condition where avatars are turned off in 'Discussion Settings'
+* Updated screenshot
+* Merged changes from _s
+
+
+2013-02-04: Version 1.0
+-----------------------
+
+* Initial release.

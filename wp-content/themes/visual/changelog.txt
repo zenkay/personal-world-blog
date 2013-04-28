@@ -1,0 +1,21 @@
+Visual 0.2.2
+
+- Style update for pre tags
+- Update readme.txt to link to licenses
+
+Visual 0.2.1
+
+- New screenshot
+- Updated theme URI
+- Better support for fallback menus
+
+Visual 0.2
+
+- Added Icon font Entypo
+- Lazy load of images in masonry layout
+- Updates to archive, search and 404 templates
+- Design polish
+
+Visual 0.1
+
+- Initial submission to WordPress.org
